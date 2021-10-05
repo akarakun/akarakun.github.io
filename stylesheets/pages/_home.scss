@@ -213,17 +213,18 @@ ul.nav-links {
     }
     .share {
         position: fixed;
-        bottom: 60px;
+        bottom: 100px;
         right: 15px;
-        border: 1px solid yellow;
-        width: 35px;
-        height: 35px;
+        border: 1px solid #0a2558;
+        width: 50px;
+        height: 50px;
         border-radius: 25px;
-        background: yellow;
+        background: #0a2558;
         i {
             position: absolute;
-            top: 25%;
-            left: 25%;
+            top: 29%;
+            left: 29%;
+            color: #fff;
         }
     }
     .messenger-face {
